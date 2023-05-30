@@ -3,13 +3,13 @@
     <item
         android:id="@+id/firstFragment"
         android:icon="@drawable/icons8_home_36___"
-        android:title="Menu" />
+        android:title="C. Inventario" />
     <item
         android:id="@+id/secondFragment"
         android:icon="@drawable/icons8_search_36___"
-        android:title="Buscar" />
+        android:title="P. de Venta" />
     <item
         android:id="@+id/thirdFragment"
         android:icon="@drawable/icons8_user_36___"
-        android:title="Perfil" />
+        android:title="Reporteador" />
 </menu>
